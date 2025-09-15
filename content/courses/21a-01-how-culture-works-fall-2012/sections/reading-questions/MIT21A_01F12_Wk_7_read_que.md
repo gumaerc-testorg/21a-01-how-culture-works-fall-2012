@@ -4,6 +4,7 @@ course_id: 21a-01-how-culture-works-fall-2012
 description: ''
 file: null
 file_location: /coursemedia/21a-01-how-culture-works-fall-2012/71b8673e00340c204a39248b1c77ce82_MIT21A_01F12_Wk_7_read_que.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
