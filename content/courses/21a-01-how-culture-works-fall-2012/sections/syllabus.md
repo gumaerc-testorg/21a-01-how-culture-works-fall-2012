@@ -28,7 +28,7 @@ Requirements
 
 ### Class Attendance / Participation
 
-I take attendance and participation very seriously, as this is a [CI-H](http://web.mit.edu/commreq/cih.html) course. By all means try not to miss a class even if you are underprepared. If you must be absent, alert the instructors prior to your absence. More than one _unexcused_ absence will affect your final grade. _Participating_ means that you complete assigned readings prior to each class, take notes in the class, and participate in discussions and ask questions for clarification as you need.
+I take attendance and participation very seriously, as this is a {{% resource_link "24297e6c-1ce4-4eb6-a26a-7521abc1fedb" "CI-H" %}} course. By all means try not to miss a class even if you are underprepared. If you must be absent, alert the instructors prior to your absence. More than one _unexcused_ absence will affect your final grade. _Participating_ means that you complete assigned readings prior to each class, take notes in the class, and participate in discussions and ask questions for clarification as you need.
 
 Recitations are your chance to exchange ideas, ask questions, demonstrate your knowledge and your opinion, and learn from each other. During recitation students will be asked to lead the discussion for a part of the hour. You can use the questions that are provided for the readings or you can come up with your own. You can volunteer to lead a discussion if you choose the topic and date ahead of time and inform the instructor. When no volunteers are present, the recitation leader will nominate a leader during the class.
 
@@ -50,7 +50,7 @@ You will use methodologies that are covered in lectures, readings, and discussio
 
 Please submit only hard copies of the final drafts of your written work! Following your third fieldwork project on Halloween, each student will make a conference-style presentation in class.
 
-The requirements for this subject conform to the requirements for all [HASS-Ds](http://shass.mit.edu/undergraduate/hass).
+The requirements for this subject conform to the requirements for all {{% resource_link "1ba18b79-3d5f-424f-881f-ead5c76b54e6" "HASS-Ds" %}}.
 
 Grading
 -------
@@ -72,7 +72,7 @@ This class has a "no electronics" policy (no laptops, cell phones, iPods, iPads 
 Required Text
 -------------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0415039495/ref=nosim/mitopencourse-20) Hebdige, Dick. _Subculture: The Meaning of Style_. Routledge, 1979. ISBN: 9780415039499.
+{{% resource_link "6843f99a-6335-46f4-80a0-f46115e53944" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Hebdige, Dick. _Subculture: The Meaning of Style_. Routledge, 1979. ISBN: 9780415039499.
 
 Writing
 -------

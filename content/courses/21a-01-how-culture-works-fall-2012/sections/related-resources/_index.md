@@ -11,6 +11,6 @@ title: Related Resources
 uid: 666b8283-f1c0-ca14-5f31-5e862148a1d5
 ---
 
-[AAA Style Guide](http://www.aaanet.org/publications/guidelines.cfm)
+{{% resource_link "a002b3cd-7509-40be-9e0e-5831bf7abeac" "AAA Style Guide" %}}
 
 [Tips on reading anthropology articles (PDF)]({{% getpage "courses/21a-01-how-culture-works-fall-2012/sections/related-resources/MIT21A_01F12_Tips_anthro" %}})
